@@ -61,6 +61,12 @@ header {
     box-shadow: var(--shadow);
 }
 
+.redBall {
+    height:100px
+
+}
+
+
 
 h2 {
     font-size: 1.8rem;
